@@ -1141,6 +1141,25 @@ z-index: 100;
     
 }
 
+
+
+
+@media screen and (max-width: 375px){
+	
+	#resume{
+	 width: 100%;
+    margin-left: 0;
+    overflow: hidden;
+    position: relative;
+    left: 0;
+    height: 400vh;
+    margin-top: -2%;
+	
+	}
+	
+}
+
+
 @media screen and (max-width: 768px){
     body{
         max-width: 100%;
